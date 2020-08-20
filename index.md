@@ -10,7 +10,7 @@ layout: home
 
 _I love data and do stuff with it._
 
-I'm a Data Scientist, educated in Stats and ML, working in the field since 2012. 
+I'm a Data Scientist, educated in Stats and ML, working in the field since 2013. 
 
 I have an undergraduate degree in Economics from Bocconi University in Milan, a graduate degree in Statistics from Universita' La Sapienza in Rome, and a MSc in Machine Learning and Computational Statistics from University College London. Learned to code on the job; mainly Python, R and Scala. 
 
@@ -24,7 +24,7 @@ Things that I'm enthusiastic about include, in random order:
 - Statistical Learning Theory
 - Anomaly detection
 
-When I'm not thinking about the things above, I am being a tourist somewhere, hiking, cycling around Kent and Surrey in the summertime, playing the piano (those 2/3 pieces I still remember), reading, watching films and baking.
+When I'm not thinking about the things above, I am being a tourist somewhere, hiking, cycling in the summertime, playing the piano (those 2/3 pieces I still remember), reading mostly scifi, watching old films and baking.
 
-I am from Italy and currently live in {{ site.author.location }}.
+I am from Italy, currently based in {{ site.author.location }}.
 
